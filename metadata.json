@@ -1,0 +1,11 @@
+{
+  "name": "Shikkhora — World-Class Educational Platform",
+  "description": "Shikkhora is a premier educational technology platform for Bangladesh, offering NCTB Classes 1–10 learning, AI tutoring, C programming, and HTML web development.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
